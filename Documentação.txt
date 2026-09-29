@@ -1,0 +1,12 @@
+git init
+git add .
+git commit -m "Projeto inicial"
+
+git remote add origin https://github.com/SthormIWNL/sistema-leiloes.git
+git branch -M main
+git push -u origin main
+
+mv README.md.txt README.md
+git add README.md
+git commit -m "Adiciona arquivo README com a descricao do projeto"
+git push
