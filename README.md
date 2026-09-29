@@ -7,4 +7,5 @@ Este é um sistema informatizado em desenvolvimento para gerenciar as rotinas de
 ## Tecnologias Utilizadas
 * Java
 * MySQL (Banco de Dados)
-* Git e GitHub (Versionamentoa)
+* Git e GitHub (Versionamentoa 
+)
